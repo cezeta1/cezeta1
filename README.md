@@ -1,16 +1,24 @@
-## Hi there 👋
+<h3 style="text-align: center;">👋 Hi there, I'm Cezeta</h3>
 
-<!--
-**cezeta1/cezeta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <a href="https://cezeta1.github.io/" style="display: flex; align-items: center; height: 30px; font-size: 18px;">🌐</a> •
+    <a href="mailto:julian.czerweny@gmail.com" style="display: flex; align-items: center; height: 30px; font-size: 20px;">📧</a> •
+    <a href="https://linkedin.com/in/cezeta" style="line-height: 10px">
+        <img style="height: 20px;" src="./assets/linkedin.png" alt="LinkedIn">
+    </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="text-align: center;">
+    Full-Stack Software Engineer with over 5 years of experience delivering web solutions using technologies like .NET, Angular, and Azure.
+</p>
+
+---
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <img style="height: 120px" src="./assets/laser-disc.webp" alt="LinkedIn">
+    <p style="text-align: center; font-style: italic; color: gray; font-size: x-small; margin-top: 10px">- Stay Rad -</p>
+</div>
+
+

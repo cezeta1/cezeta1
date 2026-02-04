@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-    <img style="height: 100px" src="./assets/laser-disc.webp" alt="LinkedIn">
+    <img style="height: 100px" src="./assets/laser-disc.webp" alt="RadLazerDisc">
     <p>$${\scriptsize \color{gray} - \space Stay \space Rad \space - }$$</p>
 </div>
 

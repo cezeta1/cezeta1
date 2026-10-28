@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    Full-Stack Software Engineer with over 5 years of experience delivering web solutions using technologies like .NET, Angular, and Azure.
+    Full-Stack Software Engineer with 6+ years of experience building and running payments platforms end to end, using TypeScript, React, Node, .NET and cloud infrastructure on Azure, GCP and Cloudflare.
 </p>
 
 ---
